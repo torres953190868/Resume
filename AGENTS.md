@@ -20,6 +20,7 @@
 - [projects/项目-Api-ChatBox.md](projects/项目-Api-ChatBox.md)：提供多模型聊天、会话保存和管理员管理功能的 Web 应用。
 - [projects/项目-PixelDock-AI.md](projects/项目-PixelDock-AI.md)：在网页悬浮窗口中提供划词翻译、词汇保存和社交平台文案生成的浏览器扩展。
 - [projects/项目-MiniCodingAgent.md](projects/项目-MiniCodingAgent.md)：通过模型工具调用读取、修改和运行项目代码的轻量级 Python 编程代理。
+- [projects/项目-Text-to-SQL-LLM.md](projects/项目-Text-to-SQL-LLM.md)：使用 LoRA 微调 SmolLM2，将自然语言问题转换为可执行 SQL，并通过 SQLite 执行结果评估生成质量。
 - [projects/项目-LLM-as-a-Judge偏差实验.md](projects/项目-LLM-as-a-Judge偏差实验.md)：基于 MT-Bench 检验 LLM 自动评判是否受回答长度和展示位置影响的试点研究。
 
 ## 网站与开发工具
