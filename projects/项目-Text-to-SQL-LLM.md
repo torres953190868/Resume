@@ -5,7 +5,7 @@ GitHub: https://github.com/torres953190868/text-to-sql-llm
 # Text-to-SQL with SmolLM2
 
 - 类型：研究 / 课程项目
-- 时间：待核实（GitHub 仓库记录为 2026-09）
+- 时间：2025—至今（用户确认年份与持续状态；起始月份未提供。GitHub 仓库记录为 2026-09）
 - 组织 / 角色：MRes Computer Science / README 署名 Hongyu Zhou；具体协作分工待核实
 
 ## 背景与目标

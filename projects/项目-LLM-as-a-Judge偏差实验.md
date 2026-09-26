@@ -5,7 +5,7 @@ GitHub: https://github.com/torres953190868/llm-as-judge
 # LLM-as-a-Judge 长度偏差与位置偏差实验
 
 - 类型：研究 / 课程项目
-- 时间：待核实（GitHub 仓库记录为 2026-05—2026-09）
+- 时间：2025—至今（用户确认年份与持续状态；起始月份未提供。GitHub 仓库记录为 2026-05—2026-09）
 - 组织 / 角色：MRes Computer Science / 研究报告署名 Hongyu Zhou
 
 ## 背景与目标

@@ -5,7 +5,7 @@ GitHub: https://github.com/torres953190868/MiniCodingAgent
 # MiniCodingAgent
 
 - 类型：个人技术项目
-- 时间：待核实（GitHub 仓库记录为 2026-09）
+- 时间：2025—至今（用户确认年份与持续状态；起始月份未提供。GitHub 仓库记录为 2026-09）
 - 组织 / 角色：个人仓库 / 项目维护者；具体协作分工待核实
 
 ## 背景与目标
