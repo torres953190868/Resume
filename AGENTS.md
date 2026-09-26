@@ -18,6 +18,14 @@
 ## 目标岗位资料
 
 - [job-lists/大众系2027校招岗位清单.xlsx](job-lists/大众系2027校招岗位清单.xlsx)：汇总大众系 2027 届校招岗位，供筛选目标岗位和定制简历时参考。
+- [job-lists/targetjob/README.md](job-lists/targetjob/README.md)：按目标公司组织岗位 JD、定制简历和投递记录的工作区总览。
+- [job-lists/targetjob/一汽-大众/README.md](job-lists/targetjob/一汽-大众/README.md)：保存一汽-大众成都车联网岗位的材料。
+- [job-lists/targetjob/一汽-大众/JD-车联网类-成都.md](job-lists/targetjob/一汽-大众/JD-车联网类-成都.md)：记录一汽-大众成都车联网岗位的云端 AI、LLM Harness、Agent 平台职责及任职要求。
+- [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，突出 Agent、RAG、模型评测与 LoRA 项目，个人资料和项目分工待补充；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
+- [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众汽车中国 / VCTC 的 AI 与软件开发方向材料。
+- [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md)：记录 VCTC 研发类 AI 方向已公布的信息、待确认项与简历准备重点。
+- [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md)：记录 VCTC 软件开发及应用方向已公布的信息、待确认项与简历准备重点。
+- [job-lists/targetjob/CARIZON-酷睿程/README.md](job-lists/targetjob/CARIZON-酷睿程/README.md)：保存 CARIZON 应用软件、云服务及数据与应用测试方向材料。
 
 ## 论文发表
 
