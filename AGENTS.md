@@ -14,11 +14,12 @@
 
 ## 工作经历
 
-- [experiences/工作-云南众锐汽车服务有限公司.md](experiences/工作-云南众锐汽车服务有限公司.md)：家族企业工作经历，参与经营例会与业务复盘，并独立设计三级毛利核算系统；无正式岗位名称。
+- [experiences/工作-云南众锐汽车服务有限公司.md](experiences/工作-云南众锐汽车服务有限公司.md)：家族企业工作经历，针对 4S 店 Excel 分散核算问题，独立设计三级毛利核算系统并完成开发，展示单车收益明细、关联业务员与统计总收益；无正式岗位名称。
 
-## 语言能力
+## 语言与编程技能
 
 - [skills/语言能力-雅思.md](skills/语言能力-雅思.md)：记录雅思总分 6.0，考试日期和单项分数待补充。
+- [skills/技能-Java.md](skills/技能-Java.md)：记录用户确认可列入简历的 Java 技能，熟练程度和具体使用经历待补充。
 
 ## 目标岗位资料
 
@@ -26,7 +27,7 @@
 - [job-lists/targetjob/README.md](job-lists/targetjob/README.md)：按目标公司组织岗位 JD、定制简历和投递记录的工作区总览。
 - [job-lists/targetjob/一汽-大众/README.md](job-lists/targetjob/一汽-大众/README.md)：保存一汽-大众成都车联网岗位的材料。
 - [job-lists/targetjob/一汽-大众/JD-车联网类-成都.md](job-lists/targetjob/一汽-大众/JD-车联网类-成都.md)：记录一汽-大众成都车联网岗位的云端 AI、LLM Harness、Agent 平台职责及任职要求。
-- [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，突出 Agent、RAG、模型评测与 LoRA 项目；已补充姓名、联系方式和教育背景，项目分工仍待核实；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
+- [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，按 BranchMind、Judge、MiniCodingAgent、LoRA 展示项目，技能栏含 Java，并列出第二作者与第四作者两篇红黑树论文；项目分工仍待核实；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
 - [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众汽车中国 / VCTC 的 AI 与软件开发方向材料。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md)：记录 VCTC 研发类 AI 方向已公布的信息、待确认项与简历准备重点。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md)：记录 VCTC 软件开发及应用方向已公布的信息、待确认项与简历准备重点。
@@ -44,7 +45,7 @@
 
 ## AI 应用与研究
 
-- [projects/项目-BranchMind.md](projects/项目-BranchMind.md)：将 AI 学习对话组织成可分支知识画布，并支持 PDF 阅读与问答。
+- [projects/项目-BranchMind.md](projects/项目-BranchMind.md)：将 AI 学习对话组织成可分支知识画布，支持课程 Agent 联网检索资料与编写教材，以及 PDF 阅读与问答。
 - [projects/项目-Api-ChatBox.md](projects/项目-Api-ChatBox.md)：提供多模型聊天、会话保存和管理员管理功能的 Web 应用。
 - [projects/项目-PixelDock-AI.md](projects/项目-PixelDock-AI.md)：在网页悬浮窗口中提供划词翻译、词汇保存和社交平台文案生成的浏览器扩展。
 - [projects/项目-MiniCodingAgent.md](projects/项目-MiniCodingAgent.md)：通过模型工具调用读取、修改和运行项目代码的轻量级 Python 编程代理。

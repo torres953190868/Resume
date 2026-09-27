@@ -1,4 +1,4 @@
-BranchMind 是一个把 AI 学习对话组织成可分支知识画布，并支持 PDF 阅读与问答的 Web 应用。
+BranchMind 是一个把 AI 学习对话组织成可分支知识画布，并支持联网检索资料、编写教材及 PDF 阅读与问答的 Web 应用。
 
 GitHub: https://github.com/torres953190868/MindGPT
 
@@ -18,6 +18,7 @@ GitHub: https://github.com/torres953190868/MindGPT
 - 仓库实现了 PDF 文本解析、按页与章节分块、向量化、检索和带页码引用的问答流程；使用 Supabase 与 pgvector 保存文档和向量，生产索引任务接入 Vercel Queues。
 - 仓库还包含课程生成与学习流程、Agent 运行记录，以及 Vitest、Playwright 和 CI 配置。
 - 以上为仓库可核实的实现范围；本人对各模块的具体设计与编码分工待核实。
+- 用户于 2026-09-27 补充确认：课程生成 Agent 的主要功能是联网检索资料并编写教材；具体检索服务、教材生成步骤与个人编码分工仍待补充。
 
 ## 结果与影响
 
