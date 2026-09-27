@@ -10,7 +10,7 @@
 - 邮箱：953190868@qq.com。
 - GitHub：[torres953190868](https://github.com/torres953190868)（以本库项目记录中使用的账号为准）。
 - 本科：温州肯恩大学（Wenzhou-Kean University）；Bachelor of Science in Computer Science and Technology；2019.09—2023.06；GPA 3.039/4.0。
-- 研究生教育：西交利物浦大学（Xi’an Jiaotong-Liverpool University）；MRes Computer Science；2025.09—2027.08（预计毕业）。
+- 研究生教育：西交利物浦大学（Xi’an Jiaotong-Liverpool University）；MRes Computer Science；2025.09—2027.07（预计毕业）。
 - 历史地址：旧版简历写有“Dianchi Weicheng, Dianchi Tourism Resort, Xishan District, Kunming, Yunnan, China”；现居地址是否相同待确认，不自动放进对外简历。
 - 毕业生类别：按留学生口径准备校招材料（用户 2026-09 确认）；无 CET-6 成绩，语言证明走雅思等留学生可接受成绩路径。
 - 授课语言：本科温州肯恩大学、硕士西交利物浦大学均为全英文授课（用户 2026-09 确认），简历可写“全英文授课”。
