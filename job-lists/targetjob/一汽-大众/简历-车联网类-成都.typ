@@ -1,9 +1,9 @@
 // 面向一汽-大众车联网类（数字化开发方向）。事实来源和待核实项见同目录 README.md。
 #set document(title: "周洪宇｜一汽-大众车联网类简历", author: "周洪宇")
-#set page(paper: "a4", margin: (x: 1.5cm, y: 1.0cm))
+#set page(paper: "a4", margin: (x: 1.5cm, top: 1.0cm, bottom: 0.7cm))
 #set text(font: ("PingFang SC", "Noto Serif CJK SC"), size: 11pt, fill: rgb("253441"), lang: "zh")
-#set par(leading: 0.69em, spacing: 0.28em, justify: false)
-#set list(indent: 0pt, body-indent: 0.95em, spacing: 0.28em)
+#set par(leading: 0.74em, spacing: 0.30em, justify: false)
+#set list(indent: 0pt, body-indent: 0.95em, spacing: 0.38em)
 #set heading(numbering: none)
 
 #let ink = rgb("173650")
@@ -12,7 +12,7 @@
 #let hairline = rgb("CCD9DF")
 #let panel = rgb("F3F7F8")
 
-#show heading.where(level: 1): it => block(above: 0.38cm, below: 0.14cm, breakable: false)[
+#show heading.where(level: 1): it => block(above: 0.42cm, below: 0.16cm, breakable: false)[
   #grid(
     columns: (auto, 1fr),
     column-gutter: 0.26cm,
@@ -22,7 +22,7 @@
   )
 ]
 
-#let school(name, degree, date) = block(above: 0.10cm, below: 0.16cm, breakable: false)[
+#let school(name, degree, date) = block(above: 0.11cm, below: 0.17cm, breakable: false)[
   #grid(
     columns: (1fr, auto),
     column-gutter: 0.4cm,
@@ -32,7 +32,7 @@
   #text(size: 9.8pt, fill: muted, degree)
 ]
 
-#let project(name, date, stack, url) = block(above: 0.30cm, below: 0.10cm, breakable: false)[
+#let project(name, date, stack, url) = block(above: 0.34cm, below: 0.11cm, breakable: false)[
   #grid(
     columns: (1fr, auto),
     column-gutter: 0.4cm,
@@ -69,23 +69,6 @@
 #school("西交利物浦大学", "计算机科学 · 研究型硕士（MRes）· 全英文授课", "2025.09—2027.07（预计）")
 #school("温州肯恩大学", "计算机科学与技术 · 理学学士 · 全英文授课", "2019.09—2023.06")
 
-= 专业技能
-#block(fill: panel, radius: 3pt, inset: (x: 0.26cm, y: 0.27cm))[
-  #grid(
-    columns: (auto, 1fr),
-    column-gutter: 0.18cm,
-    row-gutter: 0.10cm,
-    text(weight: "bold", fill: ink)[编程基础：],
-    [Python、Java、TypeScript、SQL；数据结构与算法],
-    text(weight: "bold", fill: ink)[大模型应用：],
-    [Agent 工具调用、Prompt 设计、RAG、LoRA 微调、自动化评测],
-    text(weight: "bold", fill: ink)[应用开发：],
-    [Next.js / React、SQLite、Supabase / pgvector],
-    text(weight: "bold", fill: ink)[英语能力：],
-    [IELTS 6.0；本科及硕士全英文授课],
-  )
-]
-
 = 项目与研究经历
 #project("BranchMind｜AI 学习与教材生成应用", "2025—至今", "Next.js · React Flow · pgvector · Vercel Queues", "https://github.com/torres953190868/MindGPT")
 - 面向自主学习场景，提供联网搜集资料与教材生成、分支式学习对话和 PDF 问答功能。
@@ -103,7 +86,7 @@
 
 #project("LoRA Text-to-SQL｜面向 SQL 生成的大模型微调", "2025—至今", "PyTorch · Transformers · PEFT / LoRA · SQLite", "https://github.com/torres953190868/text-to-sql-llm")
 - 使用 LoRA 微调 SmolLM2-360M-Instruct，将自然语言问题转换为 SQL；结合数据库结构设计提示，可训练参数约占 *3.50%*。
-- 在 GeoQuery 开发集上，以 SQLite 执行查询验证生成结果：zero-shot 查询结果集完全匹配率为 *69.39%*，较未微调基线提升 *34.70 个百分点*，并对语法与语义错误分类分析。
+- 在 GeoQuery 开发集上，以 SQLite 执行查询验证生成结果：zero-shot 查询结果集完全匹配率为 *73.47%*，较同条件未微调基线提升 *71.4 个百分点*，并对语法与语义错误分类分析。
 
 // 为页尾的工作经历与论文增加局部留白。
 #set par(leading: 0.88em)
@@ -134,4 +117,21 @@
   #text(size: 9.1pt, fill: muted)[_Educational Dimension_，2022.12]
   #linebreak()
   #text(size: 9.6pt)[用符号加减运算描述双黑节点移除与黑高恢复过程，帮助理解红黑树删除算法。]
+]
+
+= 专业技能
+#block(fill: panel, radius: 3pt, inset: (x: 0.26cm, y: 0.27cm))[
+  #grid(
+    columns: (auto, 1fr),
+    column-gutter: 0.18cm,
+    row-gutter: 0.10cm,
+    text(weight: "bold", fill: ink)[编程基础：],
+    [Python、Java、TypeScript、SQL；数据结构与算法],
+    text(weight: "bold", fill: ink)[大模型应用：],
+    [Agent 工具调用、Prompt 设计、RAG、LoRA 微调、自动化评测],
+    text(weight: "bold", fill: ink)[应用开发：],
+    [Next.js / React、SQLite、Supabase / pgvector],
+    text(weight: "bold", fill: ink)[英语能力：],
+    [IELTS 6.0；本科及硕士全英文授课],
+  )
 ]
