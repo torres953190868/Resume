@@ -29,10 +29,13 @@
 - [job-lists/targetjob/一汽-大众/README.md](job-lists/targetjob/一汽-大众/README.md)：保存一汽-大众成都车联网岗位的材料。
 - [job-lists/targetjob/一汽-大众/JD-车联网类-成都.md](job-lists/targetjob/一汽-大众/JD-车联网类-成都.md)：记录一汽-大众成都车联网岗位的云端 AI、LLM Harness、Agent 平台职责及任职要求。
 - [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，按 BranchMind、Judge、MiniCodingAgent、LoRA 展示项目，技能栏含 Java，并列出第二作者与第四作者两篇红黑树论文；项目分工仍待核实；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
-- [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众汽车中国 / VCTC 的 AI 与软件开发方向材料。
+- [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众汽车中国 / VCTC 的 AI 与软件开发方向材料及两份定制简历。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md)：记录 VCTC 研发类 AI 方向已公布的信息、待确认项与简历准备重点。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md)：记录 VCTC 软件开发及应用方向已公布的信息、待确认项与简历准备重点。
-- [job-lists/targetjob/CARIZON-酷睿程/README.md](job-lists/targetjob/CARIZON-酷睿程/README.md)：保存 CARIZON 应用软件、云服务及数据与应用测试方向材料。
+- [job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-AI.typ](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-AI.typ)：面向 VCTC 研发类 AI 方向的中文定制简历，按 BranchMind、MiniCodingAgent、Judge、LoRA 展示项目，强调 RAG、Agent 闭环、微调与执行式评估；[导出 PDF](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-AI.pdf)。
+- [job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-软件开发及应用.typ](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-软件开发及应用.typ)：面向 VCTC 软件开发及应用方向的中文定制简历，按 BranchMind、Api-ChatBox、PixelDock-AI、MiniCodingAgent 展示项目，强调全栈、API 接入、Docker、测试与 CI；[导出 PDF](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-软件开发及应用.pdf)。
+- [job-lists/targetjob/CARIZON-酷睿程/README.md](job-lists/targetjob/CARIZON-酷睿程/README.md)：保存 CARIZON 材料；每人限投 2 岗，主选数据闭环平台，第二志愿槽位保留（候选：数据及应用测试或云服务）。
+- [job-lists/targetjob/CARIZON-酷睿程/简历-数据闭环平台.typ](job-lists/targetjob/CARIZON-酷睿程/简历-数据闭环平台.typ)：面向 CARIZON 数据闭环平台方向的中文定制简历，按 BranchMind、Judge、LoRA Text-to-SQL、MiniCodingAgent 展示项目，强调 SQL、自动化评测与异步数据管线；[导出 PDF](job-lists/targetjob/CARIZON-酷睿程/简历-数据闭环平台.pdf)。
 
 ## 论文发表
 
