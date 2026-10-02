@@ -6,7 +6,7 @@ GitHub: https://github.com/torres953190868/text-to-sql-llm
 
 - 类型：研究 / 课程项目
 - 时间：2025—至今（用户确认年份与持续状态；起始月份未提供。GitHub 仓库记录为 2026-09）
-- 组织 / 角色：MRes Computer Science / README 署名 Hongyu Zhou；具体协作分工待核实
+- 组织 / 角色：MRes Computer Science / 个人项目；README 署名 Hongyu Zhou。具体个人行动仍待补充。
 
 ## 背景与目标
 
@@ -18,7 +18,7 @@ GitHub: https://github.com/torres953190868/text-to-sql-llm
 - 设计包含数据库 Schema 的 zero-shot 训练提示及 zero-shot / few-shot 推理提示，并在注意力层的 `q_proj`、`k_proj`、`v_proj`、`o_proj` 模块应用 LoRA。
 - 实现 completion-only 数据整理器，将提示词和 padding token 屏蔽，只对目标 SQL 序列计算训练损失；训练参数约占模型总参数的 3.50%。
 - 实现基于 SQLite 的执行式评估流程，通过执行预测 SQL 与标准 SQL，计算结果集完全匹配率、SQL 可执行率、Precision、Recall、Micro F1 和 Macro F1，并保留语法与语义错误供分析。
-- 使用确定性 greedy decoding 完成开发集和独立测试集评估；修复 gold SQL 与评分流程后，在统一推理条件下重新评估开发集，并增加 zero-shot / few-shot 控制实验。上述为仓库可核实的实现范围，个人具体编码分工待核实。
+- 使用确定性 greedy decoding 完成开发集和独立测试集评估；修复 gold SQL 与评分流程后，在统一推理条件下重新评估开发集，并增加 zero-shot / few-shot 控制实验。用户于 2026-09-28 确认这是个人项目；具体个人行动仍待补充。
 
 ## 结果与影响
 

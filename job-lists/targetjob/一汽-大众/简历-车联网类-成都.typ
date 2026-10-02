@@ -95,7 +95,7 @@
 = 工作经历
 #v(0.10cm)
 #grid(columns: (1fr, auto), column-gutter: 0.4cm,
-  text(weight: "bold", size: 11pt, fill: ink)[云南众锐汽车服务有限公司],
+  text(weight: "bold", size: 11pt, fill: ink)[云南金鼎汽车贸易有限公司],
   text(size: 9.5pt, fill: muted)[2023.09—2024.09],
 )
 #v(0.10cm)
