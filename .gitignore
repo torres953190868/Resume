@@ -8,3 +8,6 @@
 # 简历工具链下载文件（不入库，见 resume/AGENTS.md）
 resume/.local/
 resume/fonts/*.otf
+
+# 网申个人材料（不入库）
+网申个人材料/

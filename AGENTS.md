@@ -10,16 +10,17 @@
 ## 简历规则与个人资料
 
 - [rules.md](rules.md)：记录已提供的姓名、联系方式、本科与研究生教育、留学生身份与全英文授课等个人资料，以及写简历时的使用约定。
-- [网申个人信息.md](网申个人信息.md)：网申表单通用的个人敏感信息源（证件号、出生日期、家庭关系、扫描件清单等），长期复用；已加入 .gitignore 不入库。
-- [经历库记录规范.md](经历库记录规范.md)：规定经历库文件结构、事实记录格式和按岗位改写简历的边界。
+- [网申个人信息.md](网申个人信息.md)：网申表单通用的个人敏感信息源（证件号、出生日期、家庭关系、考试成绩单编号及扫描件清单等），长期复用；已加入 .gitignore 不入库。
+- [网申个人材料/](网申个人材料/)：存放已加入 .gitignore 的网申扫描件；雅思 Academic 成绩单位于 [网申个人材料/雅思成绩单扫描件.pdf](网申个人材料/雅思成绩单扫描件.pdf)。
+- [经历库记录规范.md](经历库记录规范.md)：规定经历库文件结构、事实记录格式、按岗位改写简历的边界，并附有一汽-大众 2027 校招网申待补项清单。
 
 ## 工作经历
 
-- [experiences/工作-云南众锐汽车服务有限公司.md](experiences/工作-云南众锐汽车服务有限公司.md)：家族企业工作经历，针对 4S 店 Excel 分散核算问题，独立设计三级毛利核算系统并完成开发，展示单车收益明细、关联业务员与统计总收益；无正式岗位名称。
+- [experiences/工作-云南金鼎汽车贸易有限公司.md](experiences/工作-云南金鼎汽车贸易有限公司.md)：家族企业工作经历，针对 4S 店 Excel 分散核算问题，独立设计三级毛利核算系统并完成开发，展示单车收益明细、关联业务员与统计总收益；无正式岗位名称。
 
 ## 语言与编程技能
 
-- [skills/语言能力-雅思.md](skills/语言能力-雅思.md)：记录雅思总分 6.0，考试日期和单项分数待补充。
+- [skills/语言能力-雅思.md](skills/语言能力-雅思.md)：记录 2024-10-16 Academic IELTS，总分 6.0，听力 6.5、阅读/写作/口语各 6.0；成绩单扫描件保存在已忽略的网申个人材料目录。
 - [skills/技能-Java.md](skills/技能-Java.md)：记录用户确认可列入简历的 Java 技能，熟练程度和具体使用经历待补充。
 
 ## 目标岗位资料
@@ -28,7 +29,7 @@
 - [job-lists/targetjob/README.md](job-lists/targetjob/README.md)：按目标公司组织岗位 JD、定制简历和投递记录的工作区总览。
 - [job-lists/targetjob/一汽-大众/README.md](job-lists/targetjob/一汽-大众/README.md)：保存一汽-大众成都车联网岗位的材料。
 - [job-lists/targetjob/一汽-大众/JD-车联网类-成都.md](job-lists/targetjob/一汽-大众/JD-车联网类-成都.md)：记录一汽-大众成都车联网岗位的云端 AI、LLM Harness、Agent 平台职责及任职要求。
-- [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，按 BranchMind、Judge、MiniCodingAgent、LoRA 展示项目，技能栏含 Java，并列出第二作者与第四作者两篇红黑树论文；项目分工仍待核实；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
+- [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，按 BranchMind、Judge、MiniCodingAgent、LoRA 展示项目，技能栏含 Java，并列出第二作者与第四作者两篇红黑树论文；四项均确认为个人项目，具体职责与行动仍待补充；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
 - [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众汽车中国 / VCTC 的 AI 与软件开发方向材料及两份定制简历。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md)：记录 VCTC 研发类 AI 方向已公布的信息、待确认项与简历准备重点。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md)：记录 VCTC 软件开发及应用方向已公布的信息、待确认项与简历准备重点。

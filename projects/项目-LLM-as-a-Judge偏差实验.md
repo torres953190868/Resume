@@ -6,7 +6,7 @@ GitHub: https://github.com/torres953190868/llm-as-judge
 
 - 类型：研究 / 课程项目
 - 时间：2025—至今（用户确认年份与持续状态；起始月份未提供。GitHub 仓库记录为 2026-05—2026-09）
-- 组织 / 角色：MRes Computer Science / 研究报告署名 Hongyu Zhou
+- 组织 / 角色：MRes Computer Science / 个人项目；研究报告署名 Hongyu Zhou。具体研究、实现和分析分工仍待补充。
 
 ## 背景与目标
 
@@ -17,7 +17,7 @@ GitHub: https://github.com/torres953190868/llm-as-judge
 - 以 FastChat MT-Bench 数据构建两条独立实验流程：长度偏差实验和原始回答交换位置实验。
 - 长度实验对样本进行适用性筛选、回答加长和语义/质量 manipulation check，再构造不同位置与提示词条件的 A/B trials。
 - 使用 Python 脚本组织模型调用、结果解析、统计分析与绘图，并提供复现说明和基础测试。
-- 报告署名可证实项目归属；协作者及个人编码分工待核实。
+- 用户于 2026-09-28 确认这是个人项目；具体研究、实现与分析行动仍待补充。
 
 ## 结果与影响
 
