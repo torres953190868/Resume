@@ -12,6 +12,7 @@
 - [rules.md](rules.md)：记录已提供的姓名、联系方式、本科与研究生教育、留学生身份与全英文授课等个人资料，以及写简历时的使用约定。
 - [网申个人信息.md](网申个人信息.md)：网申表单通用的个人敏感信息源（证件号、出生日期、家庭关系、考试成绩单编号及扫描件清单等），长期复用；已加入 .gitignore 不入库。
 - [网申个人材料/](网申个人材料/)：存放已加入 .gitignore 的网申扫描件；雅思 Academic 成绩单位于 [网申个人材料/雅思成绩单扫描件.pdf](网申个人材料/雅思成绩单扫描件.pdf)。
+- [网申个人材料/投递包-2026-10-03/](网申个人材料/投递包-2026-10-03/)：保存大众中国 VCTC AI、CARIAD 软件开发及应用、CARIZON 数据闭环平台后端三份上传用 PDF 与来源校验清单，已被 .gitignore 忽略。
 - [经历库记录规范.md](经历库记录规范.md)：规定经历库文件结构、事实记录格式、按岗位改写简历的边界，并附有一汽-大众 2027 校招网申待补项清单。
 
 ## 工作经历
@@ -27,17 +28,22 @@
 
 - [job-lists/大众系2027校招岗位清单.xlsx](job-lists/大众系2027校招岗位清单.xlsx)：汇总大众系 2027 届校招岗位，供筛选目标岗位和定制简历时参考。
 - [job-lists/targetjob/README.md](job-lists/targetjob/README.md)：按目标公司组织岗位 JD、定制简历和投递记录的工作区总览。
+- [job-lists/targetjob/投递准备.md](job-lists/targetjob/投递准备.md)：2026-10-03 大众中国 VCTC AI、CARIAD 软件与 CARIZON 后端三岗已成功投递，记录岗位、简历、系统志愿顺序和填写来源；一汽-大众已由用户确认投递。
 - [job-lists/targetjob/简历样式.typ](job-lists/targetjob/简历样式.typ)：大众中国 AI、软件开发及应用与 CARIZON 数据闭环平台三份简历的共享排版，参照一汽-大众采用无衬线字体、统一页边距与模块间距，并保持技能框完整分页；事实内容保留在各简历正文中。
 - [job-lists/targetjob/简历排版参考.md](job-lists/targetjob/简历排版参考.md)：记录参照一汽-大众优化三份简历的排版与即时验证方法，并附 JD 内容审查、工程证据补强、评测口径改写及待核实项，供后续岗位简历复用。
 - [job-lists/targetjob/一汽-大众/README.md](job-lists/targetjob/一汽-大众/README.md)：保存一汽-大众成都车联网岗位的材料。
+- [job-lists/targetjob/一汽-大众/投递记录.md](job-lists/targetjob/一汽-大众/投递记录.md)：用户于 2026-10-03 确认已投递成都车联网，实际提交日期和招聘系统回执尚未记录。
 - [job-lists/targetjob/一汽-大众/JD-车联网类-成都.md](job-lists/targetjob/一汽-大众/JD-车联网类-成都.md)：记录一汽-大众成都车联网岗位的云端 AI、LLM Harness、Agent 平台职责及任职要求。
 - [job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ](job-lists/targetjob/一汽-大众/简历-车联网类-成都.typ)：面向一汽-大众车联网数字化开发方向的中文定制简历，按 BranchMind、Judge、MiniCodingAgent、LoRA 展示项目，技能栏含 Java，并列出第二作者与第四作者两篇红黑树论文；四项均确认为个人项目，具体职责与行动仍待补充；[导出 PDF](job-lists/targetjob/一汽-大众/简历-车联网类-成都.pdf)。
-- [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众汽车中国 / VCTC 的 AI 与软件开发方向材料及两份定制简历。
+- [job-lists/targetjob/大众汽车中国-VCTC/README.md](job-lists/targetjob/大众汽车中国-VCTC/README.md)：保存大众中国统一入口的两份材料；2026-10-03 核实 AI 归属 VCTC，软件开发及应用归属 CARIAD，目录沿用原路径。
+- [job-lists/targetjob/大众汽车中国-VCTC/投递记录.md](job-lists/targetjob/大众汽车中国-VCTC/投递记录.md)：2026-10-03 两岗已成功投递，系统显示 CARIAD 软件第 1 志愿、VCTC AI 第 2 志愿；记录职位 ID、附件与成功回执，本次未修改志愿顺序。
 - [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-AI.md)：记录 VCTC 研发类 AI 方向已公布的信息、待确认项与简历准备重点。
-- [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md)：记录 VCTC 软件开发及应用方向已公布的信息、待确认项与简历准备重点。
+- [job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md](job-lists/targetjob/大众汽车中国-VCTC/JD-研发类-软件开发及应用.md)：记录大众中国统一入口中归属 CARIAD 的软件开发及应用方向，2026-10-03 页面职责仍为“暂无”。
 - [job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-AI.typ](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-AI.typ)：按 BranchMind、LoRA、Judge、MiniCodingAgent 展示 AI 应用与研究，明确 LoRA 无示例推理、49 条开发样本的基线 2.04% 与结果 73.47%、SQL 可执行率 91.84%，区分 Judge 试验和判定次数，技能含 PyTorch / Transformers / PEFT；[导出 PDF](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-AI.pdf)。
 - [job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-软件开发及应用.typ](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-软件开发及应用.typ)：按 BranchMind、Api-ChatBox、PixelDock-AI、MiniCodingAgent 展示软件工程项目，明确 PDF 索引、用户 / 模型配额、RAG API 与课程端到端测试、工具执行反馈，技能含 Spring Boot / MySQL 与 PostgreSQL / pgvector；[导出 PDF](job-lists/targetjob/大众汽车中国-VCTC/简历-研发类-软件开发及应用.pdf)。
 - [job-lists/targetjob/CARIZON-酷睿程/README.md](job-lists/targetjob/CARIZON-酷睿程/README.md)：保存 CARIZON 材料；每人限投 2 岗，主选数据闭环平台，第二志愿槽位保留（候选：数据及应用测试或云服务）。
+- [job-lists/targetjob/CARIZON-酷睿程/JD-数据闭环平台开发工程师-后端.md](job-lists/targetjob/CARIZON-酷睿程/JD-数据闭环平台开发工程师-后端.md)：2026-10-03 官网可直接查看的上海 / 北京校招后端岗位，记录数据闭环平台职责、后端与数据库及容器要求、两岗限制和毕业资格口径。
+- [job-lists/targetjob/CARIZON-酷睿程/投递记录.md](job-lists/targetjob/CARIZON-酷睿程/投递记录.md)：2026-10-03 已成功投递数据闭环平台后端，系统显示第 1 志愿、“投递简历”；意向上海、北京并接受城市调剂，第二志愿保留。
 - [job-lists/targetjob/CARIZON-酷睿程/简历-数据闭环平台.typ](job-lists/targetjob/CARIZON-酷睿程/简历-数据闭环平台.typ)：按 BranchMind、Api-ChatBox、Judge、LoRA 展示后端与数据项目，明确 PostgreSQL 向量索引、API / 课程测试、用户 / 模型配额、Judge 试验数量和 LoRA 开发集基线对比，技能含 Spring Boot / MySQL；[导出 PDF](job-lists/targetjob/CARIZON-酷睿程/简历-数据闭环平台.pdf)。
 
 ## 论文发表

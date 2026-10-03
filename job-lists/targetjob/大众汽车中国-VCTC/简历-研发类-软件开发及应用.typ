@@ -1,5 +1,5 @@
-// 面向大众汽车中国 / VCTC 研发类（软件开发及应用方向），AI 应用全栈 / 软件工程版本。事实来源和待核实项见同目录 README.md。
-#set document(title: "周洪宇｜大众汽车中国-VCTC 研发类软件开发及应用简历", author: "周洪宇")
+// 面向大众汽车中国统一入口 / CARIAD 研发类（软件开发及应用方向），AI 应用全栈 / 软件工程版本。事实来源和待核实项见同目录 README.md。
+#set document(title: "周洪宇｜大众汽车中国-CARIAD 研发类软件开发及应用简历", author: "周洪宇")
 #import "../简历样式.typ": *
 #show: resume-style.with(leading: 1.05em, list-spacing: 0.75em, section-gap: 0.50cm)
 
