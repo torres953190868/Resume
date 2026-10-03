@@ -17,6 +17,7 @@ GitHub: https://github.com/torres953190868/MindGPT
 - 仓库实现了基于 Next.js、React 和 React Flow 的分支节点画布，支持从节点继续主线或创建分支，并保存项目与节点状态。
 - 仓库实现了 PDF 文本解析、按页与章节分块、向量化、检索和带页码引用的问答流程；使用 Supabase 与 pgvector 保存文档和向量，生产索引任务接入 Vercel Queues。
 - 仓库还包含课程生成与学习流程、Agent 运行记录，以及 Vitest、Playwright 和 CI 配置。
+- 2026-10-03 进一步核对测试源码：Vitest 包含 PDF 上传 API、索引任务调度与查询 API 测试，检查重复文档、索引状态、入队失败及查询限流等情形；Playwright 课程端到端测试包含创建、生成、发布、加入课程和 Tutor 问答流程。CI 配置执行类型检查、Lint、Vitest、构建、Playwright 和 smoke 测试；本次只核对实现与配置，未运行完整应用测试，不记录通过率。
 - 以上为仓库可核实的实现范围；用户于 2026-09-28 确认这是个人项目，各模块的具体设计与本人行动仍待补充。
 - 用户于 2026-09-27 补充确认：课程生成 Agent 的主要功能是联网检索资料并编写教材；具体检索服务、教材生成步骤与个人编码分工仍待补充。
 
@@ -36,4 +37,9 @@ GitHub: https://github.com/torres953190868/MindGPT
 - [RAG 服务端代码](https://github.com/torres953190868/MindGPT/tree/main/lib/server/rag)
 - [课程生成 Agent 代码](https://github.com/torres953190868/MindGPT/tree/main/lib/agents/curriculum-builder)
 - [测试目录](https://github.com/torres953190868/MindGPT/tree/main/tests)
+- [PDF 上传 API 测试](https://github.com/torres953190868/MindGPT/blob/main/tests/server/rag/upload-route.test.ts)
+- [PDF 索引任务测试](https://github.com/torres953190868/MindGPT/blob/main/tests/server/rag/jobs.test.ts)
+- [PDF 查询 API 测试](https://github.com/torres953190868/MindGPT/blob/main/tests/server/rag/query-route.test.ts)
+- [课程端到端测试](https://github.com/torres953190868/MindGPT/blob/main/e2e/curriculum.spec.ts)
+- [CI 配置](https://github.com/torres953190868/MindGPT/blob/main/.github/workflows/ci.yml)
 - [仓库标注的线上地址](https://branchmind-blush.vercel.app)
